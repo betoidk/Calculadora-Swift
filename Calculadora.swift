@@ -21,7 +21,7 @@ func realizarOperacion(numero1: Double, numero2: Double, operacion: String) -> D
 
 // Función principal de la calculadora
 func calculadoraBasica() {
-    print("Calculadora Básica")
+    print("Calculadora")
     print("-----------------------------")
 
     // Solicitar el primer número
